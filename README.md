@@ -1,5 +1,7 @@
 # Software Development Management System
 
+> **Note:** this project was originally developed under my earlier GitHub account, [sajid43677/Software-Development-Management-System](https://github.com/sajid43677/Software-Development-Management-System), and was moved to this account in October 2026.
+
 A web app that supports a software team across the whole development process: project requests from clients, analysis, assignment, development, testing and documentation. Built with PHP, JavaScript and MySQL.
 
 ## Roles and what they do
